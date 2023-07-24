@@ -63,7 +63,7 @@
     },
     {
       "name": "intl",
-      "rootUri": "file:///Users/yelamanyelmuratov/.pub-cache/hosted/pub.dev/intl-0.17.0",
+      "rootUri": "file:///Users/yelamanyelmuratov/.pub-cache/hosted/pub.dev/intl-0.18.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -164,7 +164,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-07-24T10:13:10.325709Z",
+  "generated": "2023-07-24T10:22:14.322622Z",
   "generator": "pub",
   "generatorVersion": "3.0.6"
 }
